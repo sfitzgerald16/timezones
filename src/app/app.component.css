@@ -1,0 +1,15 @@
+h1 {
+  margin-bottom: 25px;
+}
+
+.button-wrapper .btn {
+	margin: 20px 0px;
+}
+.button-wrapper {
+	display: flex;
+	justify-content: space-around;
+}
+
+.yellow {
+  background-color: yellow;
+}
